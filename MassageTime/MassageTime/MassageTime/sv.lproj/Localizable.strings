@@ -1,0 +1,25 @@
+"app_title" = "MassageTime";
+"today" = "Idag";
+"new_booking" = "Ny bokning";
+"my_clients" = "Mina kunder";
+"view" = "Visa";
+"client_profile" = "Kundprofil";
+"cancelled" = "Avbokad";
+
+"client" = "Kund";
+"client_name" = "Kundnamn";
+"phone_number" = "Telefonnummer";
+"email_address" = "E-postadress";
+
+"date" = "Datum";
+"time" = "Tid";
+"select_date" = "Välj datum";
+"select_time" = "Välj tid";
+
+"massage_type" = "Typ av massage";
+"select_type" = "Välj typ";
+"duration" = "Längd";
+"select_duration" = "Välj längd";
+
+"save_booking" = "Spara bokning";
+

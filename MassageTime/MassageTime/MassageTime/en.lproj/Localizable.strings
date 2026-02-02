@@ -1,0 +1,25 @@
+"app_title" = "MassageTime";
+"today" = "Today";
+"new_booking" = "New Booking";
+"my_clients" = "My clients";
+"view" = "View";
+"client_profile" = "Client profile";
+"cancelled" = "Cancelled";
+
+"client" = "Client";
+"client_name" = "Client name";
+"phone_number" = "Phone number";
+"email_address" = "Email address";
+
+"date" = "Date";
+"time" = "Time";
+"select_date" = "Select date";
+"select_time" = "Select time";
+
+"massage_type" = "Type of massage";
+"select_type" = "Select type";
+"duration" = "Duration";
+"select_duration" = "Select duration";
+
+"save_booking" = "Save booking";
+
