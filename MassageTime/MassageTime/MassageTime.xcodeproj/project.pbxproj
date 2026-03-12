@@ -6,7 +6,20 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		47AADBD72F6323F7007987BE /* MyClientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47AADBD62F6323F7007987BE /* MyClientsView.swift */; };
+		47AADBEE2F633076007987BE /* Booking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47AADBEC2F633076007987BE /* Booking.swift */; };
+		47AADBEF2F633076007987BE /* Client.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47AADBED2F633076007987BE /* Client.swift */; };
+		47AADBF22F63314E007987BE /* ClientProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47AADBF12F63314E007987BE /* ClientProfileView.swift */; };
+		47AADBF42F633214007987BE /* NewBookingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47AADBF32F633214007987BE /* NewBookingView.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
+		47AADBD62F6323F7007987BE /* MyClientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyClientsView.swift; sourceTree = "<group>"; };
+		47AADBEC2F633076007987BE /* Booking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Booking.swift; sourceTree = "<group>"; };
+		47AADBED2F633076007987BE /* Client.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Client.swift; sourceTree = "<group>"; };
+		47AADBF12F63314E007987BE /* ClientProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClientProfileView.swift; sourceTree = "<group>"; };
+		47AADBF32F633214007987BE /* NewBookingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewBookingView.swift; sourceTree = "<group>"; };
 		47D1109A2F28C2B500180907 /* MassageTime.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MassageTime.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -32,6 +45,11 @@
 		47D110912F28C2B500180907 = {
 			isa = PBXGroup;
 			children = (
+				47AADBF32F633214007987BE /* NewBookingView.swift */,
+				47AADBF12F63314E007987BE /* ClientProfileView.swift */,
+				47AADBEC2F633076007987BE /* Booking.swift */,
+				47AADBED2F633076007987BE /* Client.swift */,
+				47AADBD62F6323F7007987BE /* MyClientsView.swift */,
 				47D1109C2F28C2B500180907 /* MassageTime */,
 				47D1109B2F28C2B500180907 /* Products */,
 			);
@@ -120,6 +138,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				47AADBF22F63314E007987BE /* ClientProfileView.swift in Sources */,
+				47AADBF42F633214007987BE /* NewBookingView.swift in Sources */,
+				47AADBD72F6323F7007987BE /* MyClientsView.swift in Sources */,
+				47AADBEE2F633076007987BE /* Booking.swift in Sources */,
+				47AADBEF2F633076007987BE /* Client.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
