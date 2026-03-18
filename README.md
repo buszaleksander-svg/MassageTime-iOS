@@ -8,6 +8,11 @@ The project was created as an educational SwiftUI application and focuses on cle
 clarity, and real-world iOS development practices.
 
 ---
+## App Store
+
+[Download MassageTime on the App Store](https://apps.apple.com/us/app/massagetime/id6758397393)
+
+___
 
 ## About the App
 
